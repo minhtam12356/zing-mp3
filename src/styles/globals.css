@@ -1,0 +1,63 @@
+@import "./layout";
+@import "./colors.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --padding-section: 59px;
+}
+
+body {
+  box-sizing: border-box;
+  line-height: 1.5;
+  font-family: Inter, sans-serif;
+  font-size: 14px;
+  color: var(--text-primary);
+  background-color: var(--layout-bg);
+  font-weight: 400;
+  -ms-scroll-chaining: none;
+  overscroll-behavior: none;
+  /* overflow: hidden; */
+}
+
+#main-application {
+  display: flex;
+}
+
+.section {
+  padding: 0 var(--padding-section);
+}
+
+.button {
+  font-size: 14px;
+  border-radius: 999px;
+  line-height: normal;
+  border: 0;
+  display: inline-block;
+  font-weight: 400;
+  text-transform: none;
+  text-align: center;
+  cursor: pointer;
+  position: relative;
+}
+
+.search {
+  height: 40px;
+  background-color: var(--alpha-bg);
+}
+
+.ic-back:before {
+  content: "\25";
+}
+
+.ic-forward:before {
+  content: "\22";
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

@@ -1,0 +1,9 @@
+.player-queue {
+  position: absolute;
+  z-index: 0;
+  right: 0;
+  bottom: 90px;
+  width: 330px;
+  border-bottom: none;
+  border-left: 1px solid var(--border-primary);
+}

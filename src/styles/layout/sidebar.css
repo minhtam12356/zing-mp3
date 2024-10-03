@@ -1,0 +1,24 @@
+.sidebar {
+  height: calc(100vh - 90px);
+  position: relative;
+  z-index: 100;
+  width: 240px;
+  background-color: var(--sidebar-bg);
+  height: 100%;
+  padding-top: 70px;
+  padding-bottom: 54px;
+}
+
+.sidebar-divider {
+  position: relative;
+  height: 1px;
+}
+
+.sidebar-divider::after {
+  content: "";
+  border-top: 1px solid var(--border-primary);
+  position: absolute;
+  left: 25px;
+  right: 25px;
+  top: 0;
+}

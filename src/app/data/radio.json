@@ -1,0 +1,585 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+      "items": [
+          {
+              "sectionType": "livestream",
+              "viewType": "slider",
+              "title": "",
+              "link": "",
+              "sectionId": "radHot",
+              "items": [
+                  {
+                      "id": 11221,
+                      "encodeId": "IWZ97CZZ",
+                      "title": "XONE - Digital Radio",
+                      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/3/0/e/830e49ef302bbe4fdfb04c9e26d42fbd.jpg",
+                      "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/3/0/e/830e49ef302bbe4fdfb04c9e26d42fbd.jpg",
+                      "thumbnailV": "https://photo-resize-zmp3.zmdcdn.me/w350_r35x62_jpeg/cover_rect/7/7/6/8/7768ffce46eddd9de94d5ac3360408f6.jpg",
+                      "thumbnailH": "https://photo-zmp3.zmdcdn.me/cover_rect/9/b/3/6/9b360620bb90cd4d5bb9ea4fda45d946.jpg",
+                      "description": "",
+                      "status": 2,
+                      "type": "livestream",
+                      "link": "/liveradio/IWZ97CZZ.html",
+                      "streaming": "https://multi-playlist-zmp3.zmdcdn.me/TgLpe29pVg0/zhls/playback-realtime/e75e51f26db784e9dda6/index.m3u8",
+                      "host": {
+                          "name": "XONE Radio",
+                          "encodeId": "IW67CZO0",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/8/2/5/0825d8cd559dee502625a25d540c636a.jpg",
+                          "link": "/xonefm"
+                      },
+                      "activeUsers": 35,
+                      "program": {
+                          "encodeId": "IWZCW0OD",
+                          "title": "USUK TOP TRENDS",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/9/5/e/695ec074d5100103dfc8056a923a9c9f.jpg",
+                          "thumbnailH": "",
+                          "description": "",
+                          "startTime": 1727996400,
+                          "endTime": 1728007200,
+                          "hasSongRequest": false
+                      }
+                  },
+                  {
+                      "id": 10443,
+                      "encodeId": "IWZ979UB",
+                      "title": "V-POP Radio",
+                      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/8/e/4/08e4104877db6c9a77d6fc42f0a17a8b.jpg",
+                      "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/8/e/4/08e4104877db6c9a77d6fc42f0a17a8b.jpg",
+                      "thumbnailV": "https://photo-resize-zmp3.zmdcdn.me/w350_r35x62_jpeg/cover_rect/5/4/8/3/5483514fb92c7e113783d2ac0c128513.jpg",
+                      "thumbnailH": "https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg",
+                      "description": "Nhạc Việt thời nay, rất \"hay ho\" và \"này nọ\"!",
+                      "status": 2,
+                      "type": "livestream",
+                      "link": "/liveradio/IWZ979UB.html",
+                      "streaming": "https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8",
+                      "host": {
+                          "name": "V-POP",
+                          "encodeId": "IW6ZBA89",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/4/6/b/146b49d11cc9b3bc591823bfedb8bce2.jpg",
+                          "link": "/vpoproom"
+                      },
+                      "activeUsers": 302,
+                      "program": {
+                          "encodeId": "IWZ9DEIE",
+                          "title": "Nhạc Việt theo yêu cầu",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/d/7/9/fd79808d2180de9a421afa6aff38953e.jpg",
+                          "thumbnailH": "",
+                          "description": "Cùng chia sẻ những bài hát mà bạn yêu thích với mọi người thông qua chương trình \"Bài Hát Theo Yêu Cầu\" bạn nhé!",
+                          "startTime": 1669777200,
+                          "endTime": 1764300240,
+                          "hasSongRequest": true,
+                          "genreIds": [
+                              "IWZ9Z088",
+                              "IWZ9Z089",
+                              "IWZ9Z0BA",
+                              "IWZ9Z0CW",
+                              "IWZ9Z0C8",
+                              "IWZ97FCD",
+                              "IWZ97FCE"
+                          ]
+                      }
+                  },
+                  {
+                      "id": 10568,
+                      "encodeId": "IWZ979C8",
+                      "title": "Chạm Radio",
+                      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/7/5/4/0/7540c1a177ce70af53aa417cba1462ed.jpg",
+                      "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/5/4/0/7540c1a177ce70af53aa417cba1462ed.jpg",
+                      "thumbnailV": "https://photo-resize-zmp3.zmdcdn.me/w350_r35x62_jpeg/cover/f/4/e/d/f4ed44ed758ddc2984685a7b2cb1ca72.jpg",
+                      "thumbnailH": "https://photo-zmp3.zmdcdn.me/cover/b/1/7/3/b17338c56d4a1505f2c4c412ee385041.jpg",
+                      "description": "Chạm - Nơi chia sẻ cảm xúc qua âm nhạc.",
+                      "status": 2,
+                      "type": "livestream",
+                      "link": "/liveradio/IWZ979C8.html",
+                      "streaming": "https://multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8",
+                      "host": {
+                          "name": "Chạm",
+                          "encodeId": "IW67DCOW",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg",
+                          "link": "/Cham-Series"
+                      },
+                      "activeUsers": 83,
+                      "program": {
+                          "encodeId": "IWZBBFAD",
+                          "title": "Âm nhạc Chạm trái tim",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/2/3/5/e235117d191db9f7bbc82a3d31f17e60.jpg",
+                          "thumbnailH": "",
+                          "description": "",
+                          "startTime": 1694762100,
+                          "endTime": 1758268800,
+                          "hasSongRequest": false,
+                          "genreIds": [
+                              "IWZ9Z08I"
+                          ]
+                      }
+                  },
+                  {
+                      "id": 10449,
+                      "encodeId": "IWZ979ZI",
+                      "title": "Bolero Radio",
+                      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/8/e/3/98e374cc9603ce9894782f4b36f3cba9.jpg",
+                      "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/8/e/3/98e374cc9603ce9894782f4b36f3cba9.jpg",
+                      "thumbnailV": "https://photo-resize-zmp3.zmdcdn.me/w350_r35x62_jpeg/cover_rect/7/8/3/b/783b94a7c19a6410b3de42fce6027ef3.jpg",
+                      "thumbnailH": "https://photo-zmp3.zmdcdn.me/cover_rect/d/6/7/4/d6746d1bbff609111133449abb9e622b.jpg",
+                      "description": "Dành tặng bạn, những tuyệt phẩm nhạc trữ tình và bolero hay nhất mọi thời đại.",
+                      "status": 2,
+                      "type": "livestream",
+                      "link": "/liveradio/IWZ979ZI.html",
+                      "streaming": "https://multi-playlist-zmp3.zmdcdn.me/ioZs7yhxUxk/zhls/playback-realtime/5bace800d4453d1b6454/index.m3u8",
+                      "host": {
+                          "name": "Bolero",
+                          "encodeId": "IW6ZBCU6",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/3/0/5/1305cd954d22d89fef4354301613fd68.jpg",
+                          "link": "/phongnhacbolero"
+                      },
+                      "activeUsers": 197,
+                      "program": {
+                          "encodeId": "IWZBDAIA",
+                          "title": "Bolero theo yêu cầu",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/8/c/e/48cefd41cfc03533d52303190f47e6ef.jpg",
+                          "thumbnailH": "",
+                          "description": "Tuyển chọn những bài hát được phát theo chính yêu cầu của bạn!",
+                          "startTime": 1704128400,
+                          "endTime": 1735878900,
+                          "hasSongRequest": true,
+                          "genreIds": [
+                              "IWZ9Z08B",
+                              "IWZ9Z08C",
+                              "IWZ9Z08D",
+                              "IWZ9Z08E"
+                          ]
+                      }
+                  },
+                  {
+                      "id": 10626,
+                      "encodeId": "IWZ97A0W",
+                      "title": "US-UK Radio",
+                      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/4/9/6/84964df6d030510a675f05110e8db166.jpg",
+                      "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/4/9/6/84964df6d030510a675f05110e8db166.jpg",
+                      "thumbnailV": "https://photo-resize-zmp3.zmdcdn.me/w350_r35x62_jpeg/cover_rect/d/5/0/d/d50d815253431750e10d86ab8ade1282.jpg",
+                      "thumbnailH": "https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg",
+                      "description": "Nhạc hay từ Âu đến Mỹ, cùng Zing MP3 khám phá xem thế giới đang nghe gì.",
+                      "status": 2,
+                      "type": "livestream",
+                      "link": "/liveradio/IWZ97A0W.html",
+                      "streaming": "https://multi-playlist-zmp3.zmdcdn.me/-XosZVJX9XA/zhls/playback-realtime/f49e38320477ed29b466/index.m3u8",
+                      "host": {
+                          "name": "US-UK",
+                          "encodeId": "IW68CW0A",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/0/d/a/b0da7c8ecd6521337682f3a86fa0170f.jpg",
+                          "link": "/radio-usuk"
+                      },
+                      "activeUsers": 56,
+                      "program": {
+                          "encodeId": "IWZ9FE0F",
+                          "title": "US-UK theo yêu cầu",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/4/f/f/d4ffcd5734d4dae6266fec08719324f0.jpg",
+                          "thumbnailH": "",
+                          "description": "Đến lượt bạn rồi! Bài hát Us-Uk nào hợp với tâm trạng bạn lúc này? Hãy chia sẻ với mọi người nhé!",
+                          "startTime": 1678330800,
+                          "endTime": 1741320000,
+                          "hasSongRequest": true,
+                          "genreIds": [
+                              "IWZ9Z08O"
+                          ]
+                      }
+                  },
+                  {
+                      "id": 10444,
+                      "encodeId": "IWZ979UC",
+                      "title": "K-POP Radio",
+                      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/6/8/f/e/68feac6764ce3018854f2a2ca313326d.jpg",
+                      "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/8/f/e/68feac6764ce3018854f2a2ca313326d.jpg",
+                      "thumbnailV": "https://photo-resize-zmp3.zmdcdn.me/w350_r35x62_jpeg/cover_rect/2/4/8/0/248039fa5e754f71065d93e61c21fb30.jpg",
+                      "thumbnailH": "https://photo-zmp3.zmdcdn.me/cover_rect/e/1/8/8/e1887a2c79f9d3d04984905cbf443a29.jpg",
+                      "description": "Fan K-POP mau bơi hết vào đây nào các bạn !!!",
+                      "status": 2,
+                      "type": "livestream",
+                      "link": "/liveradio/IWZ979UC.html",
+                      "streaming": "https://mplaylist-zmp3.zmdcdn.me/DNbAFwRlQNM/zhls/live/261642d77e9297ccce83/index.m3u8",
+                      "host": {
+                          "name": "K-POP",
+                          "encodeId": "IW6ZBA9U",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/f/2/4/cf2428f7e56a8c2a52d84cb106891de2.jpg",
+                          "link": "/kpoproom"
+                      },
+                      "activeUsers": 23
+                  },
+                  {
+                      "id": 10560,
+                      "encodeId": "IWZ979C0",
+                      "title": "Acoustic Radio",
+                      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/2/d/c/42dc85df71a175bf2e826b08dd0084af.jpg",
+                      "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/2/d/c/42dc85df71a175bf2e826b08dd0084af.jpg",
+                      "thumbnailV": "https://photo-resize-zmp3.zmdcdn.me/w350_r35x62_jpeg/cover_rect/2/4/b/6/24b6d6578bc7a06e235dcf59f37baeef.jpg",
+                      "thumbnailH": "https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg",
+                      "description": "Nếu đang tìm chút mộc mạc, hãy nghe Acoustic playlist mà Zing MP3 đã chuẩn bị cho bạn.",
+                      "status": 2,
+                      "type": "livestream",
+                      "link": "/liveradio/IWZ979C0.html",
+                      "streaming": "https://multi-playlist-zmp3.zmdcdn.me/AiekixzmitQ/zhls/playback-realtime/9b7b55d7699280ccd983/index.m3u8",
+                      "host": {
+                          "name": "Acoustic",
+                          "encodeId": "IW67DF6W",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/9/9/3/0993b3110c60ba6518fceeba9913d20d.jpg",
+                          "link": "/phong-nhac-acoustic"
+                      },
+                      "activeUsers": 62,
+                      "program": {
+                          "encodeId": "IWZ9909O",
+                          "title": "Phòng nhạc Acoustic",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/f/b/0/efb05fb9097a7057aecef6ecb62bff5a.jpg",
+                          "thumbnailH": "",
+                          "description": "Tuyển tập những bản Acoustic gắn liền với những kỷ niệm của thế hệ 8x, 9x đời đầu nhẹ nhàng và sâu lắng nhất.",
+                          "startTime": 1622511420,
+                          "endTime": 1754539860,
+                          "hasSongRequest": false
+                      }
+                  },
+                  {
+                      "id": 10518,
+                      "encodeId": "IWZ97996",
+                      "title": "Rap Việt Radio",
+                      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/5/2/4/f5242b2f63e785bb1ce8256a1b976007.jpg",
+                      "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/5/2/4/f5242b2f63e785bb1ce8256a1b976007.jpg",
+                      "thumbnailV": "https://photo-resize-zmp3.zmdcdn.me/w350_r35x62_jpeg/cover_rect/2/9/6/f/296f3d261726381a49bc83a16835ffa1.jpg",
+                      "thumbnailH": "https://photo-zmp3.zmdcdn.me/cover_rect/0/c/2/e/0c2ee7cb5ef72b5db673341864312a2a.jpg",
+                      "description": "Ở đây có rap Việt mới nhất, chất nhất cho bạn cháy hết mình!",
+                      "status": 2,
+                      "type": "livestream",
+                      "link": "/liveradio/IWZ97996.html",
+                      "streaming": "https://multi-playlist-zmp3.zmdcdn.me/XHOosOJ-f8g/zhls/playback-realtime/cef1015d3d18d4468d09/index.m3u8",
+                      "host": {
+                          "name": "Rap Việt",
+                          "encodeId": "IW67COBO",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/3/b/bf3bf87a788a5d0b8719c6feee774a2e.jpg",
+                          "link": "/phong-nhac-rap-viet"
+                      },
+                      "activeUsers": 32,
+                      "program": {
+                          "encodeId": "IWZBDE9B",
+                          "title": "Những bài Rap Việt hay nhất",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/f/2/2/bf223818f85e7fe129091b415038ca6c.jpg",
+                          "thumbnailH": "",
+                          "description": "Những bản hits Rap Việt nổi bật khiến bạn phải nghe đi nghe lại nhiều lần.",
+                          "startTime": 1705758720,
+                          "endTime": 1797305880,
+                          "hasSongRequest": false,
+                          "genreIds": [
+                              "IWZ9Z089"
+                          ]
+                      }
+                  },
+                  {
+                      "id": 10522,
+                      "encodeId": "IWZ9799A",
+                      "title": "EDM Radio",
+                      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/a/5/9/5a590ac34ef8655bae41a8cf72813935.jpg",
+                      "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/a/5/9/5a590ac34ef8655bae41a8cf72813935.jpg",
+                      "thumbnailV": "https://photo-resize-zmp3.zmdcdn.me/w350_r35x62_jpeg/cover_rect/2/5/3/9/2539ab44d456f4190f69b97a029131cb.jpg",
+                      "thumbnailH": "https://photo-zmp3.zmdcdn.me/cover_rect/a/6/f/4/a6f4712ca91e9cc15530960ab44611da.jpg",
+                      "description": "Đây là \"sàn\" EDM. Các bạn đã sẵn sàng chưa? Nhạc lên rồi, cùng nhảy thôi!",
+                      "status": 2,
+                      "type": "livestream",
+                      "link": "/liveradio/IWZ9799A.html",
+                      "streaming": "https://multi-playlist-zmp3.zmdcdn.me/lupi_x8-Su4/zhls/playback-realtime/7386bb2a876f6e31377e/index.m3u8",
+                      "host": {
+                          "name": "EDM",
+                          "encodeId": "IW67CUC8",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/7/f/3/e7f3098c8bc0e12444a9495900580ed5.jpg",
+                          "link": "/phong-nhac-edm"
+                      },
+                      "activeUsers": 38,
+                      "program": {
+                          "encodeId": "IWZBDAUF",
+                          "title": "Phòng nhạc EDM",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/f/6/2/ef629460aba3bf16ced1931b951a9dc6.jpg",
+                          "thumbnailH": "",
+                          "description": "",
+                          "startTime": 1704214800,
+                          "endTime": 1735874160,
+                          "hasSongRequest": false
+                      }
+                  },
+                  {
+                      "id": 10508,
+                      "encodeId": "IWZ9798C",
+                      "title": "C-Pop Radio",
+                      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/f/1/5/4f15f3ea2765456e3446117c48eebeea.jpg",
+                      "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/f/1/5/4f15f3ea2765456e3446117c48eebeea.jpg",
+                      "thumbnailV": "https://photo-resize-zmp3.zmdcdn.me/w350_r35x62_jpeg/cover_rect/1/0/f/6/10f664ed57f5a0f891e3a240c11f99da.jpg",
+                      "thumbnailH": "https://photo-zmp3.zmdcdn.me/cover_rect/1/5/c/2/15c2abf5f4554b416384d4f675b2151e.jpg",
+                      "description": "Âm nhạc Trung Hoa từ xưa đến nay, từ cổ phong cho đến C-Pop.",
+                      "status": 2,
+                      "type": "livestream",
+                      "link": "/liveradio/IWZ9798C.html",
+                      "streaming": "https://multi-playlist-zmp3.zmdcdn.me/_TAVBRh_ce4/zhls/playback-realtime/97b35e1f625a8b04d24b/index.m3u8",
+                      "host": {
+                          "name": "C-POP",
+                          "encodeId": "IW6ZD6AO",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/b/2/d/db2db7890510c26e76f32b885b1818cd.jpg",
+                          "link": "/cpopchannel"
+                      },
+                      "activeUsers": 32,
+                      "program": {
+                          "encodeId": "IWZ9E97A",
+                          "title": "Phòng nhạc Hoa Ngữ",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/4/b/9/24b9acce0f6a1e67f063f5ae936a66ef.jpg",
+                          "thumbnailH": "",
+                          "description": "",
+                          "startTime": 1672574400,
+                          "endTime": 1755847800,
+                          "hasSongRequest": false,
+                          "genreIds": [
+                              "IWZ9Z08U"
+                          ]
+                      }
+                  }
+              ]
+          },
+          {
+              "sectionType": "Radio_Schedule",
+              "items": [
+                  {
+                      "item": {
+                          "id": 11221,
+                          "encodeId": "IWZ97CZZ",
+                          "title": "XONE - Digital Radio",
+                          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/3/0/e/830e49ef302bbe4fdfb04c9e26d42fbd.jpg",
+                          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/3/0/e/830e49ef302bbe4fdfb04c9e26d42fbd.jpg",
+                          "thumbnailV": "https://photo-resize-zmp3.zmdcdn.me/w350_r35x62_jpeg/cover_rect/7/7/6/8/7768ffce46eddd9de94d5ac3360408f6.jpg",
+                          "thumbnailH": "https://photo-zmp3.zmdcdn.me/cover_rect/9/b/3/6/9b360620bb90cd4d5bb9ea4fda45d946.jpg",
+                          "description": "",
+                          "status": 2,
+                          "type": "livestream",
+                          "link": "/liveradio/IWZ97CZZ.html",
+                          "streaming": "https://multi-playlist-zmp3.zmdcdn.me/TgLpe29pVg0/zhls/playback-realtime/e75e51f26db784e9dda6/index.m3u8",
+                          "host": {
+                              "name": "XONE Radio",
+                              "encodeId": "IW67CZO0",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/8/2/5/0825d8cd559dee502625a25d540c636a.jpg",
+                              "link": "/xonefm"
+                          },
+                          "activeUsers": 35,
+                          "program": {
+                              "encodeId": "IWZCW0OD",
+                              "title": "USUK TOP TRENDS",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/9/5/e/695ec074d5100103dfc8056a923a9c9f.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1727996400,
+                              "endTime": 1728007200,
+                              "hasSongRequest": false
+                          }
+                      },
+                      "programs": [
+                          {
+                              "id": 184250,
+                              "encodeId": "IWZCW0OA",
+                              "title": "V-POP ON TREND",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/4/e/2/94e24f2c5637cc3965b16b36fe762d31.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1727964000,
+                              "endTime": 1727974800,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184251,
+                              "encodeId": "IWZCW0OB",
+                              "title": "NEW FOLK CITY",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/4/9/6/f496eeef2c4d8defd3b938bedf8150de.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1727974800,
+                              "endTime": 1727985600,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184252,
+                              "encodeId": "IWZCW0OC",
+                              "title": "POP RISING",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/9/6/6c96018aa8e5fe612c45c4f24f3e5a12.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1727985600,
+                              "endTime": 1727996400,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184253,
+                              "encodeId": "IWZCW0OD",
+                              "title": "USUK TOP TRENDS",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/9/5/e/695ec074d5100103dfc8056a923a9c9f.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1727996400,
+                              "endTime": 1728007200,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184254,
+                              "encodeId": "IWZCW0OE",
+                              "title": "SHAKE IT OFF",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/f/4/e/8f4e28fd9b3bd0c944a0a8bfcf00bf47.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1728007200,
+                              "endTime": 1728018000,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184255,
+                              "encodeId": "IWZCW0OF",
+                              "title": "FALL FOR YOU",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/6/9/a/d69af1b84fb3be33b76f9c911f37bfe4.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1728018000,
+                              "endTime": 1728028800,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184256,
+                              "encodeId": "IWZCW0U0",
+                              "title": "BEST ROCK IN TOWN",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/4/4/4/e4448cd298ab768ee32144fb0b344016.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1728028800,
+                              "endTime": 1728039600,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184257,
+                              "encodeId": "IWZCW0UI",
+                              "title": "NEW PRINCE OF POP",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/e/4/f/1e4fdf8bd25518bd5be4353afaec2c36.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1728039600,
+                              "endTime": 1728050400,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184258,
+                              "encodeId": "IWZCW0UW",
+                              "title": "V-POP ĐU ĐƯA",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/b/6/a/6b6a1ae77efc1085322b61f4f67226f8.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1728050400,
+                              "endTime": 1728061200,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184259,
+                              "encodeId": "IWZCW0UO",
+                              "title": "COMFORT PLACE",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/c/3/1/8c31b9991ad231e1a40b71456964c65c.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1728061200,
+                              "endTime": 1728072000,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184260,
+                              "encodeId": "IWZCW0UU",
+                              "title": "ARE & BE",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/2/a/e/e2ae7cbec7e6c4c295de9e42833d7f97.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1728072000,
+                              "endTime": 1728082800,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184262,
+                              "encodeId": "IWZCW0U6",
+                              "title": "FEEL GOOD SOUND",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/c/7/f/1c7fb62d92c93cec7f78c0dea8fc8eb0.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1728082800,
+                              "endTime": 1728093600,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184263,
+                              "encodeId": "IWZCW0U7",
+                              "title": "TẬN HƯỞNG CUỐI TUẦN",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/b/3/8/cb38cabe10101d090647ed7aae2dbb4a.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1728093600,
+                              "endTime": 1728104400,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184264,
+                              "encodeId": "IWZCW0U8",
+                              "title": "HITS ON THE HIGHWAY",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/7/2/6/0726934259b1f5558197f89c0f334e1d.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1728104400,
+                              "endTime": 1728115200,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184265,
+                              "encodeId": "IWZCW0U9",
+                              "title": "CHEER UP MOOD",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/7/9/4/e7949f2c0d01e2a557a63817dc298c60.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1728115200,
+                              "endTime": 1728126000,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184266,
+                              "encodeId": "IWZCW0UA",
+                              "title": "LET'S GO SHOPPING",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/b/f/a/8bfae63aeeafd4b8ec25b52ce278c01c.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1728126000,
+                              "endTime": 1728136800,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184274,
+                              "encodeId": "IWZCW0ZW",
+                              "title": "V-POP NGHE LÀ GHIỀN",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/7/f/6/47f6e8ee338413694d660af431f678f7.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1728136800,
+                              "endTime": 1728147600,
+                              "hasSongRequest": false
+                          },
+                          {
+                              "id": 184267,
+                              "encodeId": "IWZCW0UB",
+                              "title": "EDM FOR THE WEEKEND",
+                              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/1/6/a/b16ac2732018aa6684c5b1265b6c7d61.jpg",
+                              "thumbnailH": "",
+                              "description": "",
+                              "startTime": 1728147600,
+                              "endTime": 1728158400,
+                              "hasSongRequest": false
+                          }
+                      ]
+                  }
+              ]
+          }
+      ],
+      "hasMore": false,
+      "total": 3
+  },
+  "timestamp": 1727997794594
+}

@@ -1,0 +1,33 @@
+:root {
+  --sidebar-bg: #0000000d;
+  --background: #ffffff;
+  --foreground: #171717;
+  --purple-primary: #9b4de0;
+  --link-text-hover: #c273ed;
+  --text-primary: #fff;
+  --text-secondary: #ffffff80;
+  --layout-bg: #170f23;
+  --layout-header-bg: #170f23cc;
+  --player-bg: #130c1c;
+  --sidebar-popup-bg: #2a213a;
+  --primary-bg: #34224f;
+  --gradient-latest-section-artist: linear-gradient(
+    286.07deg,
+    #170f23f2 55.21%,
+    #170f2399
+  );
+  --alpha-layout-bg: #291547cc;
+  --queue-player-popup-bg: #120822;
+  --blur-queue-bg: #1e152fe6;
+  --purple-primary: #9b4de0;
+  --link-text-hover: #c273ed;
+  --chart-bg-img-alpha: #201335e6;
+  --border-primary: hsla(0, 0%, 100%, 0.1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
