@@ -44,3 +44,43 @@
   font-size: 16px;
   padding: 8px;
 }
+
+.player-queue .next {
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: none;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+
+.player-queue .from-playlist {
+  color: var(--text-muted);
+}
+
+.player-queue .from-playlist .zing-chart {
+  font-size: inherit;
+  font-weight: 500;
+  color: var(--link-text-hover);
+  margin-left: 6px;
+}
+
+.player-queue .container-list {
+  height: calc(100vh - 160px);
+}
+
+.player-queue .media {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 14px;
+  cursor: pointer;
+  height: '100%'; 
+  width: 200px;
+}
+
+.media .media-image {
+  border-radius: 8px;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}

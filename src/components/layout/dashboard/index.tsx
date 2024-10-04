@@ -13,3 +13,4 @@ export * from './card';
 export * from './album-title';
 export * from './album-songs';
 export * from './gallery';
+export * from './media';
