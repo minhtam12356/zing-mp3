@@ -1,10 +1,46 @@
 .player-queue {
   position: absolute;
-  z-index: 0;
   right: 0;
   bottom: 90px;
   top: 0;
   width: 330px;
   border-bottom: none;
   border-left: 1px solid var(--border-primary);
+  background: #170f23;
+}
+
+.player-queue .group-button {
+  flex: 1 1;
+  border-radius: 999px;
+  background-color: var(--alpha-bg);
+  padding: 3px;
+}
+
+.player-queue .button {
+  font-size: 12px;
+  font-weight: 500;
+  border-radius: 999px;
+  padding: 7px 16px;
+  cursor: pointer;
+  color: var(--navigation-text);
+}
+
+.player-queue .button.active {
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.07);
+  background-color: var(--tab-active-bg);
+  color: var(--text-item-hover);
+}
+
+.player-queue .clock {
+  margin-left: 10px;
+  cursor: pointer;
+  width: 34px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--alpha-bg);
+  border-radius: 50%;
+  font-size: 16px;
+  padding: 8px;
 }

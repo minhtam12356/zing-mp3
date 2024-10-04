@@ -3,7 +3,7 @@ import { Arrow, Search } from '@/components'
 
 export const LevelLeft = () => {
   return (
-    <div className='flex'>
+    <div className='flex items-center w-full'>
       <div>
         <Arrow type='left' />
         <Arrow type='right' />

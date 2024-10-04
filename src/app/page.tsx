@@ -1,19 +1,18 @@
-import React from 'react'
-import { AlbumHot, Chill, Home, HotTrending, New, NewRanking, Partner, Radio, Recent, Top100, ZingChart } from '@/components'
+import { AlbumHot, Chill, Home, HotTrending, Partner, Top100 } from '@/components'
 
 const page = () => {
   return (
     <div>
       <Home />
-      <Recent />
-      <New />
+      {/* <Recent /> */}
+      {/* <New /> */}
       <HotTrending />
       <Chill />
-      <NewRanking />
-      <ZingChart />
+      {/* <NewRanking /> */}
+      {/* <ZingChart /> */}
       <Top100 />
       <AlbumHot />
-      <Radio />
+      {/* <Radio /> */}
       <Partner />
     </div>
   )

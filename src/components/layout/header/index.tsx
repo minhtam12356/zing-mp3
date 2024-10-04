@@ -3,7 +3,7 @@ import { Level } from './level'
 
 export const Header = () => {
   return (
-    <div className='header section'>
+    <div className='header'>
       <Level />
     </div>
   )

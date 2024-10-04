@@ -9,12 +9,15 @@
   --padding-section: 59px;
 }
 
-body {
+* {
   box-sizing: border-box;
+  color: var(--text-primary);
+}
+
+body {
   line-height: 1.5;
   font-family: Inter, sans-serif;
   font-size: 14px;
-  color: var(--text-primary);
   background-color: var(--layout-bg);
   font-weight: 400;
   -ms-scroll-chaining: none;
@@ -37,6 +40,7 @@ body {
 }
 
 .button {
+  text-wrap: nowrap;
   font-size: 14px;
   border-radius: 999px;
   line-height: normal;
@@ -50,20 +54,29 @@ body {
 }
 
 .search {
+  position: relative;
+  border-radius: 20px;
   height: 40px;
   background-color: var(--alpha-bg);
-}
-
-.ic-back:before {
-  content: "\25";
-}
-
-.ic-forward:before {
-  content: "\22";
+  width: 100%;
+  max-width: 440px;
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+button,input,optgroup,select,textarea {
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  word-break: normal
+}
+
+input:focus {
+  outline: none;
 }

@@ -2,6 +2,7 @@
 
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React, { useState } from 'react'
+import { Image } from '../image';
 
 export const Search = (props: {
   placeholder?: string;
@@ -9,21 +10,31 @@ export const Search = (props: {
   const { placeholder = "Tìm kiếm bài hát, nghệ sĩ, lời bài hát..." } = props;
   const [textSearch, setTextSearch] = useState('');
 
+  const onClearTextSearch = () => {
+    setTextSearch('')
+  }
+
   const onChangeTextSearch = (event: React.ChangeEvent<HTMLInputElement> | undefined) => {
     setTextSearch(event?.target?.value ?? '')
   }
 
   return (
-    <div className="search w-full md:w-1/2 px-3">
-      {/* <FontAwesomeIcon icon={faHouse} /> */}
+    <div className="search flex items-center">
+      <Image 
+        src='/search.png'
+        alt='search icon'
+        width={18}
+        height={18}
+        className='ml-3'
+      />
       <input 
-        id="grid-last-name" 
-        className="radius-20 appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" 
+        className="search-input"
         value={textSearch}
         onChange={onChangeTextSearch}
         type="text" 
         placeholder={placeholder} 
       />
+      {textSearch ? <div className="mr-4 cursor-pointer" onClick={onClearTextSearch}>X</div> : <></>}
     </div>
   )
 }

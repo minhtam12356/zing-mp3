@@ -1,0 +1,45 @@
+.album-title .addition-button {
+  color: var(--text-secondary);
+}
+
+.album-songs {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  width: 1112px;
+}
+
+.card-image .backdrop {
+  display: none;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: var(--dark-alpha-50);
+  z-index: 1;
+}
+
+.card-image .image {
+  z-index: 2;
+}
+
+/* .card-image .image:hover + .backdrop {
+  display: block;
+} */
+
+.card-content {
+  color: var(--text-secondary);
+}
+
+.gallery {
+  width: 1112px;
+}
+
+.gallery > .item {
+  border-radius: 8px;
+}
+
+.gallery > .item:not(:last-child) {
+  margin-right: 30px;
+}

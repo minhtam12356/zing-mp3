@@ -1,5 +1,5 @@
 :root {
-  --sidebar-bg: #0000000d;
+  --sidebar-bg: hsla(0, 0%, 100%, 0.05);
   --background: #ffffff;
   --foreground: #171717;
   --purple-primary: #9b4de0;
@@ -7,7 +7,7 @@
   --text-primary: #fff;
   --text-secondary: #ffffff80;
   --layout-bg: #170f23;
-  --layout-header-bg: #170f23cc;
+  --layout-header-bg: rgba(23, 15, 35, 0.8);
   --player-bg: #130c1c;
   --sidebar-popup-bg: #2a213a;
   --primary-bg: #34224f;
@@ -21,6 +21,12 @@
   --blur-queue-bg: #1e152fe6;
   --chart-bg-img-alpha: #201335e6;
   --border-primary: hsla(0, 0%, 100%, 0.1);
+  --alpha-bg: hsla(0, 0%, 100%, 0.1);
+  --text-item-hover: #fff;
+  --white: #fff;
+  --dark-alpha-50: rgba(0, 0, 0, 0.5);
+  --navigation-text: #dadada;
+  --tab-active-bg: hsla(0, 0%, 100%, 0.3);
 }
 
 @media (prefers-color-scheme: dark) {

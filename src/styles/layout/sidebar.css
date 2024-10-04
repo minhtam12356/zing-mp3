@@ -1,16 +1,22 @@
 .sidebar {
-  height: calc(100vh - 90px);
+  font-size: 14px;
+  font-weight: 500;
+  height: 100vh;
   position: relative;
   z-index: 100;
   width: 240px;
   background-color: var(--sidebar-bg);
-  height: 100%;
-  padding-top: 70px;
+  padding-top: 14px;
   padding-bottom: 54px;
+  white-space: nowrap;
+  line-height: normal;
+  color: #dadada;
 }
 
 .sidebar-divider {
   position: relative;
+  margin-top: 16px;
+  margin-bottom: 16px;
   height: 1px;
 }
 
@@ -21,4 +27,70 @@
   left: 25px;
   right: 25px;
   top: 0;
+}
+
+.sidebar-logo {
+  padding-left: 28px;
+  padding-right: 25px;
+  padding-bottom: 18px;
+  padding-top: 1px;
+}
+
+.sidebar .item {
+  cursor: pointer;
+  padding: 12px 25px 12px 22px;
+}
+
+.sidebar .item.is-active {
+  background-color: var(--alpha-bg);
+  color: var(--text-item-hover);
+  border-left: 3px solid transparent;
+  border-color: var(--purple-primary);
+}
+
+.sidebar .login-zone {
+  padding: 15px 9px;
+  border-radius: 8px;
+  margin: 10px 20px;
+  text-align: center;
+  color: var(--white);
+  background-color: var(--purple-primary);
+  line-height: 1.4;
+}
+
+.sidebar .login-zone > .text {
+  font-size: 12px;
+  margin-bottom: 10px;
+  font-weight: 600;
+  text-wrap: wrap;
+}
+
+.sidebar .login-zone > .login {
+  border-radius: 999px;
+  border: 1px solid var(--white);
+  padding: 6px 35px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.sidebar .other {
+  height: calc(100vh - 330px);
+}
+
+.sidebar .new-playlist {
+  cursor: pointer;
+  position: fixed;
+  width: 240px;
+  left: 0;
+  height: 54px;
+  border-top: 1px solid var(--border-primary);
+  padding: 0 28px;
+  border-radius: 0;
+  display: flex;
+  align-items: center;
+  color: var(--navigation-text);
+  font-weight: 500;
+  bottom: 0;
+  background-color: #221a2d;
 }
