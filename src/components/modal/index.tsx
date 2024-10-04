@@ -1,7 +1,7 @@
-import React, { useState } from 'react'
+import React from 'react'
 
 export const Modal = () => {
-  const [isOpen, setIsOpen] = useState(false);
+  // const [isOpen, setIsOpen] = useState(false);
 
   return (
     <div className="relative p-4 w-full max-w-2xl max-h-full">
