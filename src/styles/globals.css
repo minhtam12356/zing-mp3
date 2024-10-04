@@ -19,7 +19,12 @@ body {
   font-weight: 400;
   -ms-scroll-chaining: none;
   overscroll-behavior: none;
-  /* overflow: hidden; */
+  overflow: hidden;
+}
+
+.container {
+  margin-right: 330px;
+  width: calc(100% - 570px);
 }
 
 #main-application {
@@ -28,6 +33,7 @@ body {
 
 .section {
   padding: 0 var(--padding-section);
+  height: 90vh;
 }
 
 .button {

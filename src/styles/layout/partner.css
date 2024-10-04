@@ -1,0 +1,20 @@
+.partner .box {
+  background-color: #f7f7f7;
+  padding: 0 10px;
+  border-radius: 8px;
+  margin: 0 10px 30px 10px;
+  height: 64px;
+}
+
+.partner .title {
+  cursor: pointer;
+  font-size: 12px;
+  letter-spacing: 1.71px;
+  font-weight: 700;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+}
+
+.partner .title:hover {
+  color: var(--link-text-hover);
+}

@@ -1,7 +1,6 @@
 .header {
   position: fixed;
   left: 240px;
-  right: 330px;
   height: 70px;
   background-color: var(--layout-header-bg);
   backdrop-filter: blur(50px);

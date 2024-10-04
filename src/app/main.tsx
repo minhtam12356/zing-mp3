@@ -5,7 +5,7 @@ export const Body = (props: { children: React.ReactNode }) => {
   const { children } = props;
 
   return (
-    <div className='section mt-20'>{children}</div>
+    <div className='container relative mt-20'>{children}</div>
   )
 }
 
@@ -18,9 +18,9 @@ export const Main = (props: { children: React.ReactNode }) => {
 
       <Header />
       <Body>
-        {children}
-        <PlayerQueue />
+        <div className="body section overflow-x-hidden overflow-y-scroll inset-0 absolute">{children}</div>
       </Body>
+      <PlayerQueue />
     </div>
   )
 }
